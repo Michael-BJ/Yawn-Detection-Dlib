@@ -44,8 +44,8 @@ while True:
         else:
             counter = 0
 
-    cv2.putText(frame, "LAR: {:.2f}".format(LAR), (300, 30),
-		cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2) 
+    	cv2.putText(frame, "LAR: {:.2f}".format(LAR), (300, 30),
+	cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2) 
     cv2.imshow("yawn detection", frame)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
