@@ -73,4 +73,4 @@ LAR = calculate_lip(lip_point)
 # Demo
 
 Clik the picture to see the Video
-[![Watch the video](https://img.youtube.com/vi/pu1ot_mDYnc/maxresdefault.jpg)](https://youtu.be/QkwzEbPBNz4)
+[![Watch the video](https://img.youtube.com/vi/QkwzEbPBNz4/maxresdefault.jpg)](https://youtu.be/QkwzEbPBNz4)
